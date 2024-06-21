@@ -1,6 +1,6 @@
 <!-- Brand Logo -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1SN_Mopu7qwzAPwj_5szb6TkO3witYzv1/view?usp=sharing" alt="Brand Logo" width="150" height="150">
+  <img src="https://drive.google.com/file/d/1SN_Mopu7qwzAPwj_5szb6TkO3witYzv1/view?usp=sharing/youtube_Brand.png" alt="Brand Logo" width="150" height="150">
 </p>
 <h1 align="center">Hi 👋, welcome to IOT Station</h1>
 <h3 align="center">A passionate IOT Developer</h3>
